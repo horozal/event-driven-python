@@ -1,1 +1,2 @@
-print('Hello world!')
+def handle_event():
+    print("Event occurred!")
